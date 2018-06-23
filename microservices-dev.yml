@@ -1,1 +1,11 @@
 msg: dev update
+spring:
+  application:
+    name: config-client
+server:
+  port: 8033
+management:
+  endpoints:
+    web:
+      exposure:
+        include: refresh
