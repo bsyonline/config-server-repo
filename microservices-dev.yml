@@ -1,4 +1,4 @@
-msg: dev update
+msg: dev update update
 spring:
   application:
     name: config-client
